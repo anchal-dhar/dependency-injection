@@ -11,7 +11,7 @@ mvn assembly:single
 mvn clean install
 
 # Run the main app using the mvn exec plugin
-mvn exec:java -Dexec.mainClass="coffee.CoffeeApp"
+time mvn exec:java -Dexec.mainClass="coffee.CoffeeApp"
 
 # Run the dependencies jar , the normal jar cannot be run as it does not hold all dependencies
-java -jar target/coffee-shop-1.00-jar-with-dependencies.jar
+time java -jar target/coffee-shop-1.00-jar-with-dependencies.jar
