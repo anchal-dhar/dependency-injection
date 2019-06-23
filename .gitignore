@@ -1,0 +1,11 @@
+# Compiled source #
+###################
+*.class
+./dagger/target
+
+# OS generated files #
+######################
+.DS_Store
+.vscode
+
+
