@@ -2,7 +2,7 @@
 ###################
 *.class
 ./dagger/target
-./dagger/coffee-shop-1.00-jar-with-dependencies
+./words-counter/target
 
 # OS generated files #
 ######################
