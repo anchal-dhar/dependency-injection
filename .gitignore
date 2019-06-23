@@ -2,6 +2,7 @@
 ###################
 *.class
 ./dagger/target
+./dagger/coffee-shop-1.00-jar-with-dependencies
 
 # OS generated files #
 ######################
