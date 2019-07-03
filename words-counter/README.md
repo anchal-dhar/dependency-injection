@@ -1,6 +1,6 @@
 # Reference
 
-Simple word-counter application  
+Simple long running word-counter application used for graalvm , graal native-image execution time comparison
 
 ### compare run times Java 8/ GraalVM/ Graal native image
 
