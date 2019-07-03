@@ -41,6 +41,7 @@ user	0m0.036s
 sys	0m0.021s
 
 5.run the docker container via Java8 base image (dockerfile relative path is - dependency-injection/hello-world/docker-java8/Dockerfile )  
+```console
 Anchals-MacBook-Pro-3:docker-java8 anchal$ pwd
 /Users/anchal/2019/dependency-injection-clone/dependency-injection/hello-world/docker-java8  
 Anchals-MacBook-Pro-3:docker-java8 anchal$ docker build -t anchaldocker1/hello-world .
@@ -71,10 +72,10 @@ real	0m0.256s
 user	0m0.110s
 sys	0m0.140s
 root@50d978842e49:/# 
-
+```
 
 5.run the docker container via graalvm native base image (dockerfile relative path is - dependency-injection/hello-world/docker-graalvm/Dockerfile)  
-
+```console
 Anchals-MacBook-Pro-3:docker-graalvm anchal$ pwd  
 /Users/anchal/2019/dependency-injection-clone/dependency-injection/hello-world/docker-graalvm  
 Anchals-MacBook-Pro-3:docker-graalvm anchal$ docker build -t anchaldocker1/hello-world .
@@ -138,7 +139,7 @@ real	0m0.002s
 user	0m0.000s
 sys	0m0.000s
 bash-4.2# 
- 
+```
 
 
 
