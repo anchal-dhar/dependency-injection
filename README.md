@@ -1,4 +1,4 @@
-# dependency-injection
+# java-examples
 The is base place holder for the sub projects 
 Each sub folder has its own read me.
 
