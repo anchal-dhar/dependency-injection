@@ -1,4 +1,5 @@
 # Reference
+The project is example usage of Dagger 2 and has steps for graalvm native image generation.     
 
 The build.sh has required mvn commands notes as well  
 The refrence for this code is from dagger official website https://dagger.dev/  
