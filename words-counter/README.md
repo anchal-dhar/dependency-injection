@@ -5,6 +5,7 @@ Simple word-counter application
 ### compare run times Java 8/ GraalVM/ Graal native image
 
 #### Run Code via Java 8  
+```console
 The JAVA_HOME points to - JAVA_HOME = /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home
 Inside Main !!!
 1 (452 ms)
@@ -58,3 +59,4 @@ real	0m7.843s
 user	0m7.357s
 sys	0m0.205s
 Anchals-MacBook-Pro-3:words-counter anchal
+```
