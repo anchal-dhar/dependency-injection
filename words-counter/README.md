@@ -6,6 +6,9 @@ Simple word-counter application
 
 #### Run Code via Java 8  
 ```console
+Anchals-MacBook-Pro-3:words-counter anchal$ ./build.sh
+Anchals-MacBook-Pro-3:words-counter anchal$ ./build.graalvm.sh 
+
 The JAVA_HOME points to - JAVA_HOME = /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home
 Inside Main !!!
 1 (452 ms)
