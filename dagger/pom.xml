@@ -23,7 +23,7 @@
       <!-- Force the correct version of Guava to be on the classpath. -->
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
-      <version>28.0-jre</version>
+      <version>29.0-jre</version>
     </dependency>
     <dependency>
       <groupId>com.google.dagger</groupId>
